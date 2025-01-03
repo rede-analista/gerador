@@ -9,15 +9,10 @@ Algumas das características são proporcionar notificação por Telegram e comu
 
 A intenção é controlar um Gerador de Energia à Gasolina 7,2 Kva Bivolt Partida Elétrica TG8000CXER TOYAMA, este gerador tem apenas partida elétrica mas não possui interface para controle e partida automática.
 
-**NOTA: Não sou programador e nem técnico em eletrônica, somente me interesso por programação e controladores, sendo assim, não espere uma programação "bonita" e/ou dentro das melhores práticas, mas fique a vontade para trocar informações ou sugerir alguma melhoria**
+**NOTA: Não sou programador e nem técnico em eletrônica, somente me interesso por programação e controladores**
 
 ## Recursos:
 
 
 # Ambiente Desenvolvimento:
 - O desenvolvimento foi realizado na interface Visual Studio versão 1.92.2 com sistema operacional Debian 12.1 Bookworm.
-
-
-# !!!! IMPORTANTE !!!!
-A programação atual ainda não faz nenhuma tratativa com as informações que são inseridas/configuradas, não há tratativas para informações com acentuação e tambem não há tratativas para configurações incorretas de pinagem.<br>
-Desta forma, uma configuração incorreta pode causar travamentos, falhas ou ainda danificar o módulo ESP32, tenha cuidado e muita atenção para inserir as informações.
